@@ -1,17 +1,23 @@
+# Carrinho de Compras - SPA com Vue.js e Supabase
+
+## Identificação do Aluno
+- André Felipe Sindeaux Sindeaux
+- Vinicus Negrão Pinho
+
 ## Hospedagem GitHub Pages
 Foram criados duas hospedagens no GitHub Pages devido a um bug no botão de direcionamento para a pagina carrinho
 A pagina carrinho foi hospedada em um outro projeto no GitHub Pages devido a um bug no codigo que inpedia que o botão direcionasse para pagina carrinho, segue o link da pagina carrinho logo a seguir.
 
 -Parte 1
-https://github.com/ProgramySSindeaux/PT1-IFPA-Atividade-Final-2025
+https://programyssindeaux.github.io/PT1-IFPA-Atividade-Final-2025/
 
 -Parte 2
-https://programyssindeaux.github.io/PT1-IFPA-Atividade-Final-2025/
+https://programyssindeaux.github.io/-PT2-IFPA-Atividade-Final-2025/
 
 
 ## GitHub
 -Parte 1
-https://github.com/ProgramySSindeaux/PT1-IFPA-Atividade-Final-2025/settings/pages
+https://github.com/ProgramySSindeaux/PT1-IFPA-Atividade-Final-2025
 
 -Parte 2
 https://github.com/ProgramySSindeaux/-PT2-IFPA-Atividade-Final-2025
